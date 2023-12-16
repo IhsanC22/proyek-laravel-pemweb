@@ -1,0 +1,654 @@
+[2023-11-22 01:53:19] local.ERROR: syntax error, unexpected double-quoted string " defer></script>", expecting ")" {"view":{"view":"C:\\Windows\\System32\\c22la\\resources\\views\\layouts\\app.blade.php","data":{"errors":"<pre class=sf-dump id=sf-dump-1933466833 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\ViewErrorBag</span> {<a class=sf-dump-ref>#267</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">bags</span>: []
+</samp>}
+</pre><script>Sfdump(\"sf-dump-1933466833\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","province":"<pre class=sf-dump id=sf-dump-1804252458 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\Collection</span> {<a class=sf-dump-ref>#284</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">items</span>: <span class=sf-dump-note>array:34</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-key>1</span> => \"<span class=sf-dump-str title=\"4 characters\">Bali</span>\"
+    <span class=sf-dump-key>2</span> => \"<span class=sf-dump-str title=\"15 characters\">Bangka Belitung</span>\"
+    <span class=sf-dump-key>3</span> => \"<span class=sf-dump-str title=\"6 characters\">Banten</span>\"
+    <span class=sf-dump-key>4</span> => \"<span class=sf-dump-str title=\"8 characters\">Bengkulu</span>\"
+    <span class=sf-dump-key>5</span> => \"<span class=sf-dump-str title=\"13 characters\">DI Yogyakarta</span>\"
+    <span class=sf-dump-key>6</span> => \"<span class=sf-dump-str title=\"11 characters\">DKI Jakarta</span>\"
+    <span class=sf-dump-key>7</span> => \"<span class=sf-dump-str title=\"9 characters\">Gorontalo</span>\"
+    <span class=sf-dump-key>8</span> => \"<span class=sf-dump-str title=\"5 characters\">Jambi</span>\"
+    <span class=sf-dump-key>9</span> => \"<span class=sf-dump-str title=\"10 characters\">Jawa Barat</span>\"
+    <span class=sf-dump-key>10</span> => \"<span class=sf-dump-str title=\"11 characters\">Jawa Tengah</span>\"
+    <span class=sf-dump-key>11</span> => \"<span class=sf-dump-str title=\"10 characters\">Jawa Timur</span>\"
+    <span class=sf-dump-key>12</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Barat</span>\"
+    <span class=sf-dump-key>13</span> => \"<span class=sf-dump-str title=\"18 characters\">Kalimantan Selatan</span>\"
+    <span class=sf-dump-key>14</span> => \"<span class=sf-dump-str title=\"17 characters\">Kalimantan Tengah</span>\"
+    <span class=sf-dump-key>15</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Timur</span>\"
+    <span class=sf-dump-key>16</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Utara</span>\"
+    <span class=sf-dump-key>17</span> => \"<span class=sf-dump-str title=\"14 characters\">Kepulauan Riau</span>\"
+    <span class=sf-dump-key>18</span> => \"<span class=sf-dump-str title=\"7 characters\">Lampung</span>\"
+    <span class=sf-dump-key>19</span> => \"<span class=sf-dump-str title=\"6 characters\">Maluku</span>\"
+    <span class=sf-dump-key>20</span> => \"<span class=sf-dump-str title=\"12 characters\">Maluku Utara</span>\"
+    <span class=sf-dump-key>21</span> => \"<span class=sf-dump-str title=\"30 characters\">Nanggroe Aceh Darussalam (NAD)</span>\"
+    <span class=sf-dump-key>22</span> => \"<span class=sf-dump-str title=\"25 characters\">Nusa Tenggara Barat (NTB)</span>\"
+    <span class=sf-dump-key>23</span> => \"<span class=sf-dump-str title=\"25 characters\">Nusa Tenggara Timur (NTT)</span>\"
+    <span class=sf-dump-key>24</span> => \"<span class=sf-dump-str title=\"5 characters\">Papua</span>\"
+    <span class=sf-dump-key>25</span> => \"<span class=sf-dump-str title=\"11 characters\">Papua Barat</span>\"
+    <span class=sf-dump-key>26</span> => \"<span class=sf-dump-str title=\"4 characters\">Riau</span>\"
+    <span class=sf-dump-key>27</span> => \"<span class=sf-dump-str title=\"14 characters\">Sulawesi Barat</span>\"
+    <span class=sf-dump-key>28</span> => \"<span class=sf-dump-str title=\"16 characters\">Sulawesi Selatan</span>\"
+    <span class=sf-dump-key>29</span> => \"<span class=sf-dump-str title=\"15 characters\">Sulawesi Tengah</span>\"
+    <span class=sf-dump-key>30</span> => \"<span class=sf-dump-str title=\"17 characters\">Sulawesi Tenggara</span>\"
+    <span class=sf-dump-key>31</span> => \"<span class=sf-dump-str title=\"14 characters\">Sulawesi Utara</span>\"
+    <span class=sf-dump-key>32</span> => \"<span class=sf-dump-str title=\"14 characters\">Sumatera Barat</span>\"
+    <span class=sf-dump-key>33</span> => \"<span class=sf-dump-str title=\"16 characters\">Sumatera Selatan</span>\"
+    <span class=sf-dump-key>34</span> => \"<span class=sf-dump-str title=\"14 characters\">Sumatera Utara</span>\"
+  </samp>]
+  #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+</samp>}
+</pre><script>Sfdump(\"sf-dump-1804252458\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","__currentLoopData":"<pre class=sf-dump id=sf-dump-459604037 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\Collection</span> {<a class=sf-dump-ref>#284</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">items</span>: <span class=sf-dump-note>array:34</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-key>1</span> => \"<span class=sf-dump-str title=\"4 characters\">Bali</span>\"
+    <span class=sf-dump-key>2</span> => \"<span class=sf-dump-str title=\"15 characters\">Bangka Belitung</span>\"
+    <span class=sf-dump-key>3</span> => \"<span class=sf-dump-str title=\"6 characters\">Banten</span>\"
+    <span class=sf-dump-key>4</span> => \"<span class=sf-dump-str title=\"8 characters\">Bengkulu</span>\"
+    <span class=sf-dump-key>5</span> => \"<span class=sf-dump-str title=\"13 characters\">DI Yogyakarta</span>\"
+    <span class=sf-dump-key>6</span> => \"<span class=sf-dump-str title=\"11 characters\">DKI Jakarta</span>\"
+    <span class=sf-dump-key>7</span> => \"<span class=sf-dump-str title=\"9 characters\">Gorontalo</span>\"
+    <span class=sf-dump-key>8</span> => \"<span class=sf-dump-str title=\"5 characters\">Jambi</span>\"
+    <span class=sf-dump-key>9</span> => \"<span class=sf-dump-str title=\"10 characters\">Jawa Barat</span>\"
+    <span class=sf-dump-key>10</span> => \"<span class=sf-dump-str title=\"11 characters\">Jawa Tengah</span>\"
+    <span class=sf-dump-key>11</span> => \"<span class=sf-dump-str title=\"10 characters\">Jawa Timur</span>\"
+    <span class=sf-dump-key>12</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Barat</span>\"
+    <span class=sf-dump-key>13</span> => \"<span class=sf-dump-str title=\"18 characters\">Kalimantan Selatan</span>\"
+    <span class=sf-dump-key>14</span> => \"<span class=sf-dump-str title=\"17 characters\">Kalimantan Tengah</span>\"
+    <span class=sf-dump-key>15</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Timur</span>\"
+    <span class=sf-dump-key>16</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Utara</span>\"
+    <span class=sf-dump-key>17</span> => \"<span class=sf-dump-str title=\"14 characters\">Kepulauan Riau</span>\"
+    <span class=sf-dump-key>18</span> => \"<span class=sf-dump-str title=\"7 characters\">Lampung</span>\"
+    <span class=sf-dump-key>19</span> => \"<span class=sf-dump-str title=\"6 characters\">Maluku</span>\"
+    <span class=sf-dump-key>20</span> => \"<span class=sf-dump-str title=\"12 characters\">Maluku Utara</span>\"
+    <span class=sf-dump-key>21</span> => \"<span class=sf-dump-str title=\"30 characters\">Nanggroe Aceh Darussalam (NAD)</span>\"
+    <span class=sf-dump-key>22</span> => \"<span class=sf-dump-str title=\"25 characters\">Nusa Tenggara Barat (NTB)</span>\"
+    <span class=sf-dump-key>23</span> => \"<span class=sf-dump-str title=\"25 characters\">Nusa Tenggara Timur (NTT)</span>\"
+    <span class=sf-dump-key>24</span> => \"<span class=sf-dump-str title=\"5 characters\">Papua</span>\"
+    <span class=sf-dump-key>25</span> => \"<span class=sf-dump-str title=\"11 characters\">Papua Barat</span>\"
+    <span class=sf-dump-key>26</span> => \"<span class=sf-dump-str title=\"4 characters\">Riau</span>\"
+    <span class=sf-dump-key>27</span> => \"<span class=sf-dump-str title=\"14 characters\">Sulawesi Barat</span>\"
+    <span class=sf-dump-key>28</span> => \"<span class=sf-dump-str title=\"16 characters\">Sulawesi Selatan</span>\"
+    <span class=sf-dump-key>29</span> => \"<span class=sf-dump-str title=\"15 characters\">Sulawesi Tengah</span>\"
+    <span class=sf-dump-key>30</span> => \"<span class=sf-dump-str title=\"17 characters\">Sulawesi Tenggara</span>\"
+    <span class=sf-dump-key>31</span> => \"<span class=sf-dump-str title=\"14 characters\">Sulawesi Utara</span>\"
+    <span class=sf-dump-key>32</span> => \"<span class=sf-dump-str title=\"14 characters\">Sumatera Barat</span>\"
+    <span class=sf-dump-key>33</span> => \"<span class=sf-dump-str title=\"16 characters\">Sumatera Selatan</span>\"
+    <span class=sf-dump-key>34</span> => \"<span class=sf-dump-str title=\"14 characters\">Sumatera Utara</span>\"
+  </samp>]
+  #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+</samp>}
+</pre><script>Sfdump(\"sf-dump-459604037\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","value":"<pre class=sf-dump id=sf-dump-1963391664 data-indent-pad=\"  \">\"<span class=sf-dump-str title=\"14 characters\">Sumatera Utara</span>\"
+</pre><script>Sfdump(\"sf-dump-1963391664\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","key":"<pre class=sf-dump id=sf-dump-361445394 data-indent-pad=\"  \"><span class=sf-dump-num>34</span>
+</pre><script>Sfdump(\"sf-dump-361445394\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","loop":"<pre class=sf-dump id=sf-dump-1823448228 data-indent-pad=\"  \"><span class=sf-dump-const>null</span>
+</pre><script>Sfdump(\"sf-dump-1823448228\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+"}},"exception":"[object] (Spatie\\LaravelIgnition\\Exceptions\\ViewException(code: 0): syntax error, unexpected double-quoted string \" defer></script>
+\", expecting \")\" at C:\\Windows\\System32\\c22la\\resources\\views\\layouts\\app.blade.php:15)
+[stacktrace]
+#0 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#1 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\Windows\\\\Syst...', Array)
+#2 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\Windows\\\\Syst...', Array)
+#3 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\Windows\\\\Syst...', Array)
+#4 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#5 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#6 C:\\Windows\\System32\\c22la\\resources\\views\\home.blade.php(113): Illuminate\\View\\View->render()
+#7 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(109): require('C:\\\\Windows\\\\Syst...')
+#8 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#9 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\Windows\\\\Syst...', Array)
+#10 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\Windows\\\\Syst...', Array)
+#11 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\Windows\\\\Syst...', Array)
+#12 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#13 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#14 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#15 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#16 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(906): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#17 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(875): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#18 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#19 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#28 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#35 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#36 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#37 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#38 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#39 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#40 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#48 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#49 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#50 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#51 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#52 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#53 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#54 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#55 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#56 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#57 C:\\Windows\\System32\\c22la\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#58 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('C:\\\\Windows\\\\Syst...')
+#59 {main}
+
+[previous exception] [object] (ParseError(code: 0): syntax error, unexpected double-quoted string \" defer></script>
+\", expecting \")\" at C:\\Windows\\System32\\c22la\\storage\\framework\\views\\352674426f1cee286db3e97b3a523b3aec1fb398.php:16)
+[stacktrace]
+#0 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#1 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\Windows\\\\Syst...', Array)
+#2 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\Windows\\\\Syst...', Array)
+#3 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\Windows\\\\Syst...', Array)
+#4 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#5 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#6 C:\\Windows\\System32\\c22la\\storage\\framework\\views\\1c3ba5147da7be4bd84c3ce5f2ce0cea8ace441d.php(114): Illuminate\\View\\View->render()
+#7 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(109): require('C:\\\\Windows\\\\Syst...')
+#8 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#9 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\Windows\\\\Syst...', Array)
+#10 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\Windows\\\\Syst...', Array)
+#11 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\Windows\\\\Syst...', Array)
+#12 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#13 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#14 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#15 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#16 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(906): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#17 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(875): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#18 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#19 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#28 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#35 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#36 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#37 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#38 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#39 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#40 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#48 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#49 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#50 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#51 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#52 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#53 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#54 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#55 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#56 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#57 C:\\Windows\\System32\\c22la\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#58 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('C:\\\\Windows\\\\Syst...')
+#59 {main}
+"} 
+[2023-11-22 01:57:25] local.ERROR: syntax error, unexpected double-quoted string " defer></script>", expecting ")" {"view":{"view":"C:\\Windows\\System32\\c22la\\resources\\views\\layouts\\app.blade.php","data":{"errors":"<pre class=sf-dump id=sf-dump-153728672 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\ViewErrorBag</span> {<a class=sf-dump-ref>#267</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">bags</span>: []
+</samp>}
+</pre><script>Sfdump(\"sf-dump-153728672\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","province":"<pre class=sf-dump id=sf-dump-1007790021 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\Collection</span> {<a class=sf-dump-ref>#284</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">items</span>: <span class=sf-dump-note>array:34</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-key>1</span> => \"<span class=sf-dump-str title=\"4 characters\">Bali</span>\"
+    <span class=sf-dump-key>2</span> => \"<span class=sf-dump-str title=\"15 characters\">Bangka Belitung</span>\"
+    <span class=sf-dump-key>3</span> => \"<span class=sf-dump-str title=\"6 characters\">Banten</span>\"
+    <span class=sf-dump-key>4</span> => \"<span class=sf-dump-str title=\"8 characters\">Bengkulu</span>\"
+    <span class=sf-dump-key>5</span> => \"<span class=sf-dump-str title=\"13 characters\">DI Yogyakarta</span>\"
+    <span class=sf-dump-key>6</span> => \"<span class=sf-dump-str title=\"11 characters\">DKI Jakarta</span>\"
+    <span class=sf-dump-key>7</span> => \"<span class=sf-dump-str title=\"9 characters\">Gorontalo</span>\"
+    <span class=sf-dump-key>8</span> => \"<span class=sf-dump-str title=\"5 characters\">Jambi</span>\"
+    <span class=sf-dump-key>9</span> => \"<span class=sf-dump-str title=\"10 characters\">Jawa Barat</span>\"
+    <span class=sf-dump-key>10</span> => \"<span class=sf-dump-str title=\"11 characters\">Jawa Tengah</span>\"
+    <span class=sf-dump-key>11</span> => \"<span class=sf-dump-str title=\"10 characters\">Jawa Timur</span>\"
+    <span class=sf-dump-key>12</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Barat</span>\"
+    <span class=sf-dump-key>13</span> => \"<span class=sf-dump-str title=\"18 characters\">Kalimantan Selatan</span>\"
+    <span class=sf-dump-key>14</span> => \"<span class=sf-dump-str title=\"17 characters\">Kalimantan Tengah</span>\"
+    <span class=sf-dump-key>15</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Timur</span>\"
+    <span class=sf-dump-key>16</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Utara</span>\"
+    <span class=sf-dump-key>17</span> => \"<span class=sf-dump-str title=\"14 characters\">Kepulauan Riau</span>\"
+    <span class=sf-dump-key>18</span> => \"<span class=sf-dump-str title=\"7 characters\">Lampung</span>\"
+    <span class=sf-dump-key>19</span> => \"<span class=sf-dump-str title=\"6 characters\">Maluku</span>\"
+    <span class=sf-dump-key>20</span> => \"<span class=sf-dump-str title=\"12 characters\">Maluku Utara</span>\"
+    <span class=sf-dump-key>21</span> => \"<span class=sf-dump-str title=\"30 characters\">Nanggroe Aceh Darussalam (NAD)</span>\"
+    <span class=sf-dump-key>22</span> => \"<span class=sf-dump-str title=\"25 characters\">Nusa Tenggara Barat (NTB)</span>\"
+    <span class=sf-dump-key>23</span> => \"<span class=sf-dump-str title=\"25 characters\">Nusa Tenggara Timur (NTT)</span>\"
+    <span class=sf-dump-key>24</span> => \"<span class=sf-dump-str title=\"5 characters\">Papua</span>\"
+    <span class=sf-dump-key>25</span> => \"<span class=sf-dump-str title=\"11 characters\">Papua Barat</span>\"
+    <span class=sf-dump-key>26</span> => \"<span class=sf-dump-str title=\"4 characters\">Riau</span>\"
+    <span class=sf-dump-key>27</span> => \"<span class=sf-dump-str title=\"14 characters\">Sulawesi Barat</span>\"
+    <span class=sf-dump-key>28</span> => \"<span class=sf-dump-str title=\"16 characters\">Sulawesi Selatan</span>\"
+    <span class=sf-dump-key>29</span> => \"<span class=sf-dump-str title=\"15 characters\">Sulawesi Tengah</span>\"
+    <span class=sf-dump-key>30</span> => \"<span class=sf-dump-str title=\"17 characters\">Sulawesi Tenggara</span>\"
+    <span class=sf-dump-key>31</span> => \"<span class=sf-dump-str title=\"14 characters\">Sulawesi Utara</span>\"
+    <span class=sf-dump-key>32</span> => \"<span class=sf-dump-str title=\"14 characters\">Sumatera Barat</span>\"
+    <span class=sf-dump-key>33</span> => \"<span class=sf-dump-str title=\"16 characters\">Sumatera Selatan</span>\"
+    <span class=sf-dump-key>34</span> => \"<span class=sf-dump-str title=\"14 characters\">Sumatera Utara</span>\"
+  </samp>]
+  #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+</samp>}
+</pre><script>Sfdump(\"sf-dump-1007790021\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","__currentLoopData":"<pre class=sf-dump id=sf-dump-40031653 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\Collection</span> {<a class=sf-dump-ref>#284</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">items</span>: <span class=sf-dump-note>array:34</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-key>1</span> => \"<span class=sf-dump-str title=\"4 characters\">Bali</span>\"
+    <span class=sf-dump-key>2</span> => \"<span class=sf-dump-str title=\"15 characters\">Bangka Belitung</span>\"
+    <span class=sf-dump-key>3</span> => \"<span class=sf-dump-str title=\"6 characters\">Banten</span>\"
+    <span class=sf-dump-key>4</span> => \"<span class=sf-dump-str title=\"8 characters\">Bengkulu</span>\"
+    <span class=sf-dump-key>5</span> => \"<span class=sf-dump-str title=\"13 characters\">DI Yogyakarta</span>\"
+    <span class=sf-dump-key>6</span> => \"<span class=sf-dump-str title=\"11 characters\">DKI Jakarta</span>\"
+    <span class=sf-dump-key>7</span> => \"<span class=sf-dump-str title=\"9 characters\">Gorontalo</span>\"
+    <span class=sf-dump-key>8</span> => \"<span class=sf-dump-str title=\"5 characters\">Jambi</span>\"
+    <span class=sf-dump-key>9</span> => \"<span class=sf-dump-str title=\"10 characters\">Jawa Barat</span>\"
+    <span class=sf-dump-key>10</span> => \"<span class=sf-dump-str title=\"11 characters\">Jawa Tengah</span>\"
+    <span class=sf-dump-key>11</span> => \"<span class=sf-dump-str title=\"10 characters\">Jawa Timur</span>\"
+    <span class=sf-dump-key>12</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Barat</span>\"
+    <span class=sf-dump-key>13</span> => \"<span class=sf-dump-str title=\"18 characters\">Kalimantan Selatan</span>\"
+    <span class=sf-dump-key>14</span> => \"<span class=sf-dump-str title=\"17 characters\">Kalimantan Tengah</span>\"
+    <span class=sf-dump-key>15</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Timur</span>\"
+    <span class=sf-dump-key>16</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Utara</span>\"
+    <span class=sf-dump-key>17</span> => \"<span class=sf-dump-str title=\"14 characters\">Kepulauan Riau</span>\"
+    <span class=sf-dump-key>18</span> => \"<span class=sf-dump-str title=\"7 characters\">Lampung</span>\"
+    <span class=sf-dump-key>19</span> => \"<span class=sf-dump-str title=\"6 characters\">Maluku</span>\"
+    <span class=sf-dump-key>20</span> => \"<span class=sf-dump-str title=\"12 characters\">Maluku Utara</span>\"
+    <span class=sf-dump-key>21</span> => \"<span class=sf-dump-str title=\"30 characters\">Nanggroe Aceh Darussalam (NAD)</span>\"
+    <span class=sf-dump-key>22</span> => \"<span class=sf-dump-str title=\"25 characters\">Nusa Tenggara Barat (NTB)</span>\"
+    <span class=sf-dump-key>23</span> => \"<span class=sf-dump-str title=\"25 characters\">Nusa Tenggara Timur (NTT)</span>\"
+    <span class=sf-dump-key>24</span> => \"<span class=sf-dump-str title=\"5 characters\">Papua</span>\"
+    <span class=sf-dump-key>25</span> => \"<span class=sf-dump-str title=\"11 characters\">Papua Barat</span>\"
+    <span class=sf-dump-key>26</span> => \"<span class=sf-dump-str title=\"4 characters\">Riau</span>\"
+    <span class=sf-dump-key>27</span> => \"<span class=sf-dump-str title=\"14 characters\">Sulawesi Barat</span>\"
+    <span class=sf-dump-key>28</span> => \"<span class=sf-dump-str title=\"16 characters\">Sulawesi Selatan</span>\"
+    <span class=sf-dump-key>29</span> => \"<span class=sf-dump-str title=\"15 characters\">Sulawesi Tengah</span>\"
+    <span class=sf-dump-key>30</span> => \"<span class=sf-dump-str title=\"17 characters\">Sulawesi Tenggara</span>\"
+    <span class=sf-dump-key>31</span> => \"<span class=sf-dump-str title=\"14 characters\">Sulawesi Utara</span>\"
+    <span class=sf-dump-key>32</span> => \"<span class=sf-dump-str title=\"14 characters\">Sumatera Barat</span>\"
+    <span class=sf-dump-key>33</span> => \"<span class=sf-dump-str title=\"16 characters\">Sumatera Selatan</span>\"
+    <span class=sf-dump-key>34</span> => \"<span class=sf-dump-str title=\"14 characters\">Sumatera Utara</span>\"
+  </samp>]
+  #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+</samp>}
+</pre><script>Sfdump(\"sf-dump-40031653\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","value":"<pre class=sf-dump id=sf-dump-998322190 data-indent-pad=\"  \">\"<span class=sf-dump-str title=\"14 characters\">Sumatera Utara</span>\"
+</pre><script>Sfdump(\"sf-dump-998322190\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","key":"<pre class=sf-dump id=sf-dump-1203901391 data-indent-pad=\"  \"><span class=sf-dump-num>34</span>
+</pre><script>Sfdump(\"sf-dump-1203901391\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","loop":"<pre class=sf-dump id=sf-dump-1350779554 data-indent-pad=\"  \"><span class=sf-dump-const>null</span>
+</pre><script>Sfdump(\"sf-dump-1350779554\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+"}},"exception":"[object] (Spatie\\LaravelIgnition\\Exceptions\\ViewException(code: 0): syntax error, unexpected double-quoted string \" defer></script>
+\", expecting \")\" at C:\\Windows\\System32\\c22la\\resources\\views\\layouts\\app.blade.php:15)
+[stacktrace]
+#0 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#1 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\Windows\\\\Syst...', Array)
+#2 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\Windows\\\\Syst...', Array)
+#3 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\Windows\\\\Syst...', Array)
+#4 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#5 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#6 C:\\Windows\\System32\\c22la\\resources\\views\\home.blade.php(113): Illuminate\\View\\View->render()
+#7 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(109): require('C:\\\\Windows\\\\Syst...')
+#8 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#9 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\Windows\\\\Syst...', Array)
+#10 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\Windows\\\\Syst...', Array)
+#11 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\Windows\\\\Syst...', Array)
+#12 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#13 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#14 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#15 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#16 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(906): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#17 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(875): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#18 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#19 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#28 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#35 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#36 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#37 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#38 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#39 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#40 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#48 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#49 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#50 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#51 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#52 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#53 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#54 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#55 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#56 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#57 C:\\Windows\\System32\\c22la\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#58 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('C:\\\\Windows\\\\Syst...')
+#59 {main}
+
+[previous exception] [object] (ParseError(code: 0): syntax error, unexpected double-quoted string \" defer></script>
+\", expecting \")\" at C:\\Windows\\System32\\c22la\\storage\\framework\\views\\352674426f1cee286db3e97b3a523b3aec1fb398.php:16)
+[stacktrace]
+#0 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#1 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\Windows\\\\Syst...', Array)
+#2 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\Windows\\\\Syst...', Array)
+#3 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\Windows\\\\Syst...', Array)
+#4 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#5 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#6 C:\\Windows\\System32\\c22la\\storage\\framework\\views\\1c3ba5147da7be4bd84c3ce5f2ce0cea8ace441d.php(114): Illuminate\\View\\View->render()
+#7 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(109): require('C:\\\\Windows\\\\Syst...')
+#8 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#9 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\Windows\\\\Syst...', Array)
+#10 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\Windows\\\\Syst...', Array)
+#11 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\Windows\\\\Syst...', Array)
+#12 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#13 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#14 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#15 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#16 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(906): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#17 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(875): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#18 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#19 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#28 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#35 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#36 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#37 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#38 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#39 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#40 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#48 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#49 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#50 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#51 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#52 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#53 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#54 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#55 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#56 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#57 C:\\Windows\\System32\\c22la\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#58 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('C:\\\\Windows\\\\Syst...')
+#59 {main}
+"} 
+[2023-11-22 02:01:13] local.ERROR: syntax error, unexpected double-quoted string " defer></script>", expecting ")" {"view":{"view":"C:\\Windows\\System32\\c22la\\resources\\views\\layouts\\app.blade.php","data":{"errors":"<pre class=sf-dump id=sf-dump-1764926667 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\ViewErrorBag</span> {<a class=sf-dump-ref>#267</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">bags</span>: []
+</samp>}
+</pre><script>Sfdump(\"sf-dump-1764926667\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","province":"<pre class=sf-dump id=sf-dump-1998795388 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\Collection</span> {<a class=sf-dump-ref>#284</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">items</span>: <span class=sf-dump-note>array:34</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-key>1</span> => \"<span class=sf-dump-str title=\"4 characters\">Bali</span>\"
+    <span class=sf-dump-key>2</span> => \"<span class=sf-dump-str title=\"15 characters\">Bangka Belitung</span>\"
+    <span class=sf-dump-key>3</span> => \"<span class=sf-dump-str title=\"6 characters\">Banten</span>\"
+    <span class=sf-dump-key>4</span> => \"<span class=sf-dump-str title=\"8 characters\">Bengkulu</span>\"
+    <span class=sf-dump-key>5</span> => \"<span class=sf-dump-str title=\"13 characters\">DI Yogyakarta</span>\"
+    <span class=sf-dump-key>6</span> => \"<span class=sf-dump-str title=\"11 characters\">DKI Jakarta</span>\"
+    <span class=sf-dump-key>7</span> => \"<span class=sf-dump-str title=\"9 characters\">Gorontalo</span>\"
+    <span class=sf-dump-key>8</span> => \"<span class=sf-dump-str title=\"5 characters\">Jambi</span>\"
+    <span class=sf-dump-key>9</span> => \"<span class=sf-dump-str title=\"10 characters\">Jawa Barat</span>\"
+    <span class=sf-dump-key>10</span> => \"<span class=sf-dump-str title=\"11 characters\">Jawa Tengah</span>\"
+    <span class=sf-dump-key>11</span> => \"<span class=sf-dump-str title=\"10 characters\">Jawa Timur</span>\"
+    <span class=sf-dump-key>12</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Barat</span>\"
+    <span class=sf-dump-key>13</span> => \"<span class=sf-dump-str title=\"18 characters\">Kalimantan Selatan</span>\"
+    <span class=sf-dump-key>14</span> => \"<span class=sf-dump-str title=\"17 characters\">Kalimantan Tengah</span>\"
+    <span class=sf-dump-key>15</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Timur</span>\"
+    <span class=sf-dump-key>16</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Utara</span>\"
+    <span class=sf-dump-key>17</span> => \"<span class=sf-dump-str title=\"14 characters\">Kepulauan Riau</span>\"
+    <span class=sf-dump-key>18</span> => \"<span class=sf-dump-str title=\"7 characters\">Lampung</span>\"
+    <span class=sf-dump-key>19</span> => \"<span class=sf-dump-str title=\"6 characters\">Maluku</span>\"
+    <span class=sf-dump-key>20</span> => \"<span class=sf-dump-str title=\"12 characters\">Maluku Utara</span>\"
+    <span class=sf-dump-key>21</span> => \"<span class=sf-dump-str title=\"30 characters\">Nanggroe Aceh Darussalam (NAD)</span>\"
+    <span class=sf-dump-key>22</span> => \"<span class=sf-dump-str title=\"25 characters\">Nusa Tenggara Barat (NTB)</span>\"
+    <span class=sf-dump-key>23</span> => \"<span class=sf-dump-str title=\"25 characters\">Nusa Tenggara Timur (NTT)</span>\"
+    <span class=sf-dump-key>24</span> => \"<span class=sf-dump-str title=\"5 characters\">Papua</span>\"
+    <span class=sf-dump-key>25</span> => \"<span class=sf-dump-str title=\"11 characters\">Papua Barat</span>\"
+    <span class=sf-dump-key>26</span> => \"<span class=sf-dump-str title=\"4 characters\">Riau</span>\"
+    <span class=sf-dump-key>27</span> => \"<span class=sf-dump-str title=\"14 characters\">Sulawesi Barat</span>\"
+    <span class=sf-dump-key>28</span> => \"<span class=sf-dump-str title=\"16 characters\">Sulawesi Selatan</span>\"
+    <span class=sf-dump-key>29</span> => \"<span class=sf-dump-str title=\"15 characters\">Sulawesi Tengah</span>\"
+    <span class=sf-dump-key>30</span> => \"<span class=sf-dump-str title=\"17 characters\">Sulawesi Tenggara</span>\"
+    <span class=sf-dump-key>31</span> => \"<span class=sf-dump-str title=\"14 characters\">Sulawesi Utara</span>\"
+    <span class=sf-dump-key>32</span> => \"<span class=sf-dump-str title=\"14 characters\">Sumatera Barat</span>\"
+    <span class=sf-dump-key>33</span> => \"<span class=sf-dump-str title=\"16 characters\">Sumatera Selatan</span>\"
+    <span class=sf-dump-key>34</span> => \"<span class=sf-dump-str title=\"14 characters\">Sumatera Utara</span>\"
+  </samp>]
+  #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+</samp>}
+</pre><script>Sfdump(\"sf-dump-1998795388\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","__currentLoopData":"<pre class=sf-dump id=sf-dump-335772295 data-indent-pad=\"  \"><span class=sf-dump-note>Illuminate\\Support\\Collection</span> {<a class=sf-dump-ref>#284</a><samp data-depth=1 class=sf-dump-expanded>
+  #<span class=sf-dump-protected title=\"Protected property\">items</span>: <span class=sf-dump-note>array:34</span> [<samp data-depth=2 class=sf-dump-compact>
+    <span class=sf-dump-key>1</span> => \"<span class=sf-dump-str title=\"4 characters\">Bali</span>\"
+    <span class=sf-dump-key>2</span> => \"<span class=sf-dump-str title=\"15 characters\">Bangka Belitung</span>\"
+    <span class=sf-dump-key>3</span> => \"<span class=sf-dump-str title=\"6 characters\">Banten</span>\"
+    <span class=sf-dump-key>4</span> => \"<span class=sf-dump-str title=\"8 characters\">Bengkulu</span>\"
+    <span class=sf-dump-key>5</span> => \"<span class=sf-dump-str title=\"13 characters\">DI Yogyakarta</span>\"
+    <span class=sf-dump-key>6</span> => \"<span class=sf-dump-str title=\"11 characters\">DKI Jakarta</span>\"
+    <span class=sf-dump-key>7</span> => \"<span class=sf-dump-str title=\"9 characters\">Gorontalo</span>\"
+    <span class=sf-dump-key>8</span> => \"<span class=sf-dump-str title=\"5 characters\">Jambi</span>\"
+    <span class=sf-dump-key>9</span> => \"<span class=sf-dump-str title=\"10 characters\">Jawa Barat</span>\"
+    <span class=sf-dump-key>10</span> => \"<span class=sf-dump-str title=\"11 characters\">Jawa Tengah</span>\"
+    <span class=sf-dump-key>11</span> => \"<span class=sf-dump-str title=\"10 characters\">Jawa Timur</span>\"
+    <span class=sf-dump-key>12</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Barat</span>\"
+    <span class=sf-dump-key>13</span> => \"<span class=sf-dump-str title=\"18 characters\">Kalimantan Selatan</span>\"
+    <span class=sf-dump-key>14</span> => \"<span class=sf-dump-str title=\"17 characters\">Kalimantan Tengah</span>\"
+    <span class=sf-dump-key>15</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Timur</span>\"
+    <span class=sf-dump-key>16</span> => \"<span class=sf-dump-str title=\"16 characters\">Kalimantan Utara</span>\"
+    <span class=sf-dump-key>17</span> => \"<span class=sf-dump-str title=\"14 characters\">Kepulauan Riau</span>\"
+    <span class=sf-dump-key>18</span> => \"<span class=sf-dump-str title=\"7 characters\">Lampung</span>\"
+    <span class=sf-dump-key>19</span> => \"<span class=sf-dump-str title=\"6 characters\">Maluku</span>\"
+    <span class=sf-dump-key>20</span> => \"<span class=sf-dump-str title=\"12 characters\">Maluku Utara</span>\"
+    <span class=sf-dump-key>21</span> => \"<span class=sf-dump-str title=\"30 characters\">Nanggroe Aceh Darussalam (NAD)</span>\"
+    <span class=sf-dump-key>22</span> => \"<span class=sf-dump-str title=\"25 characters\">Nusa Tenggara Barat (NTB)</span>\"
+    <span class=sf-dump-key>23</span> => \"<span class=sf-dump-str title=\"25 characters\">Nusa Tenggara Timur (NTT)</span>\"
+    <span class=sf-dump-key>24</span> => \"<span class=sf-dump-str title=\"5 characters\">Papua</span>\"
+    <span class=sf-dump-key>25</span> => \"<span class=sf-dump-str title=\"11 characters\">Papua Barat</span>\"
+    <span class=sf-dump-key>26</span> => \"<span class=sf-dump-str title=\"4 characters\">Riau</span>\"
+    <span class=sf-dump-key>27</span> => \"<span class=sf-dump-str title=\"14 characters\">Sulawesi Barat</span>\"
+    <span class=sf-dump-key>28</span> => \"<span class=sf-dump-str title=\"16 characters\">Sulawesi Selatan</span>\"
+    <span class=sf-dump-key>29</span> => \"<span class=sf-dump-str title=\"15 characters\">Sulawesi Tengah</span>\"
+    <span class=sf-dump-key>30</span> => \"<span class=sf-dump-str title=\"17 characters\">Sulawesi Tenggara</span>\"
+    <span class=sf-dump-key>31</span> => \"<span class=sf-dump-str title=\"14 characters\">Sulawesi Utara</span>\"
+    <span class=sf-dump-key>32</span> => \"<span class=sf-dump-str title=\"14 characters\">Sumatera Barat</span>\"
+    <span class=sf-dump-key>33</span> => \"<span class=sf-dump-str title=\"16 characters\">Sumatera Selatan</span>\"
+    <span class=sf-dump-key>34</span> => \"<span class=sf-dump-str title=\"14 characters\">Sumatera Utara</span>\"
+  </samp>]
+  #<span class=sf-dump-protected title=\"Protected property\">escapeWhenCastingToString</span>: <span class=sf-dump-const>false</span>
+</samp>}
+</pre><script>Sfdump(\"sf-dump-335772295\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","value":"<pre class=sf-dump id=sf-dump-1041152392 data-indent-pad=\"  \">\"<span class=sf-dump-str title=\"14 characters\">Sumatera Utara</span>\"
+</pre><script>Sfdump(\"sf-dump-1041152392\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","key":"<pre class=sf-dump id=sf-dump-774767950 data-indent-pad=\"  \"><span class=sf-dump-num>34</span>
+</pre><script>Sfdump(\"sf-dump-774767950\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+","loop":"<pre class=sf-dump id=sf-dump-1216206328 data-indent-pad=\"  \"><span class=sf-dump-const>null</span>
+</pre><script>Sfdump(\"sf-dump-1216206328\", {\"maxDepth\":3,\"maxStringLength\":160})</script>
+"}},"exception":"[object] (Spatie\\LaravelIgnition\\Exceptions\\ViewException(code: 0): syntax error, unexpected double-quoted string \" defer></script>
+\", expecting \")\" at C:\\Windows\\System32\\c22la\\resources\\views\\layouts\\app.blade.php:15)
+[stacktrace]
+#0 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#1 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\Windows\\\\Syst...', Array)
+#2 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\Windows\\\\Syst...', Array)
+#3 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\Windows\\\\Syst...', Array)
+#4 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#5 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#6 C:\\Windows\\System32\\c22la\\resources\\views\\home.blade.php(113): Illuminate\\View\\View->render()
+#7 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(109): require('C:\\\\Windows\\\\Syst...')
+#8 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#9 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\Windows\\\\Syst...', Array)
+#10 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\Windows\\\\Syst...', Array)
+#11 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\Windows\\\\Syst...', Array)
+#12 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#13 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#14 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#15 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#16 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(906): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#17 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(875): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#18 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#19 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#28 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#35 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#36 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#37 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#38 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#39 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#40 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#48 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#49 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#50 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#51 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#52 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#53 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#54 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#55 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#56 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#57 C:\\Windows\\System32\\c22la\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#58 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('C:\\\\Windows\\\\Syst...')
+#59 {main}
+
+[previous exception] [object] (ParseError(code: 0): syntax error, unexpected double-quoted string \" defer></script>
+\", expecting \")\" at C:\\Windows\\System32\\c22la\\storage\\framework\\views\\352674426f1cee286db3e97b3a523b3aec1fb398.php:16)
+[stacktrace]
+#0 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#1 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\Windows\\\\Syst...', Array)
+#2 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\Windows\\\\Syst...', Array)
+#3 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\Windows\\\\Syst...', Array)
+#4 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#5 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#6 C:\\Windows\\System32\\c22la\\storage\\framework\\views\\1c3ba5147da7be4bd84c3ce5f2ce0cea8ace441d.php(114): Illuminate\\View\\View->render()
+#7 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(109): require('C:\\\\Windows\\\\Syst...')
+#8 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Filesystem\\Filesystem.php(110): Illuminate\\Filesystem\\Filesystem::Illuminate\\Filesystem\\{closure}()
+#9 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\PhpEngine.php(58): Illuminate\\Filesystem\\Filesystem->getRequire('C:\\\\Windows\\\\Syst...', Array)
+#10 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Engines\\CompilerEngine.php(70): Illuminate\\View\\Engines\\PhpEngine->evaluatePath('C:\\\\Windows\\\\Syst...', Array)
+#11 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(195): Illuminate\\View\\Engines\\CompilerEngine->get('C:\\\\Windows\\\\Syst...', Array)
+#12 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(178): Illuminate\\View\\View->getContents()
+#13 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\View.php(147): Illuminate\\View\\View->renderContents()
+#14 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(69): Illuminate\\View\\View->render()
+#15 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Response.php(35): Illuminate\\Http\\Response->setContent(Object(Illuminate\\View\\View))
+#16 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(906): Illuminate\\Http\\Response->__construct(Object(Illuminate\\View\\View), 200, Array)
+#17 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(875): Illuminate\\Routing\\Router::toResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#18 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Routing\\Router->prepareResponse(Object(Illuminate\\Http\\Request), Object(Illuminate\\View\\View))
+#19 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Routing\\Router->Illuminate\\Routing\\{closure}(Object(Illuminate\\Http\\Request))
+#20 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Middleware\\SubstituteBindings.php(50): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#21 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Routing\\Middleware\\SubstituteBindings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#22 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken.php(78): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#23 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#24 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Middleware\\ShareErrorsFromSession.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\View\\Middleware\\ShareErrorsFromSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#26 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(121): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#27 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Session\\Middleware\\StartSession.php(64): Illuminate\\Session\\Middleware\\StartSession->handleStatefulRequest(Object(Illuminate\\Http\\Request), Object(Illuminate\\Session\\Store), Object(Closure))
+#28 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Session\\Middleware\\StartSession->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#29 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse.php(37): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#30 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#31 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Cookie\\Middleware\\EncryptCookies.php(67): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#32 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Cookie\\Middleware\\EncryptCookies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#33 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#34 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(797): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#35 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(776): Illuminate\\Routing\\Router->runRouteWithinStack(Object(Illuminate\\Routing\\Route), Object(Illuminate\\Http\\Request))
+#36 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(740): Illuminate\\Routing\\Router->runRoute(Object(Illuminate\\Http\\Request), Object(Illuminate\\Routing\\Route))
+#37 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Routing\\Router.php(729): Illuminate\\Routing\\Router->dispatchToRoute(Object(Illuminate\\Http\\Request))
+#38 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(190): Illuminate\\Routing\\Router->dispatch(Object(Illuminate\\Http\\Request))
+#39 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(141): Illuminate\\Foundation\\Http\\Kernel->Illuminate\\Foundation\\Http\\{closure}(Object(Illuminate\\Http\\Request))
+#40 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#41 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull.php(31): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#42 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#43 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#44 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings.php(40): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#45 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\TrimStrings->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#46 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#47 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#48 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance.php(86): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#49 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#50 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\HandleCors.php(49): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#51 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\HandleCors->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#52 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Http\\Middleware\\TrustProxies.php(39): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#53 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(180): Illuminate\\Http\\Middleware\\TrustProxies->handle(Object(Illuminate\\Http\\Request), Object(Closure))
+#54 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Pipeline\\Pipeline.php(116): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#55 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(165): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#56 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Http\\Kernel.php(134): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#57 C:\\Windows\\System32\\c22la\\public\\index.php(51): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#58 C:\\Windows\\System32\\c22la\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\resources\\server.php(16): require_once('C:\\\\Windows\\\\Syst...')
+#59 {main}
+"} 
